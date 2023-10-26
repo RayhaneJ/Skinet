@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "lg1CvhfGwSGGAV3j4p3hOdv0sV66TOVAPaMiGG0XigMEjm4JXp+s7Qci6YOORzooOIQd2QcyCJ5nDqvCMpOV4Q==",
+  "dgSpecHash": "7z965M6L15+jbzHT3nQrWIEHLrG51RhQHzgHRTO/GlMmAS6UV1BGgXv6L/h4NvpPRAiuoUGf473mpOs45X5/4g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rayhane\\source\\repos\\skinet\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Rayhane\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Rayhane\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Rayhane\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Rayhane\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Rayhane\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.24\\microsoft.data.sqlite.core.6.0.24.nupkg.sha512",
     "C:\\Users\\Rayhane\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.24\\microsoft.entityframeworkcore.6.0.24.nupkg.sha512",
     "C:\\Users\\Rayhane\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.24\\microsoft.entityframeworkcore.abstractions.6.0.24.nupkg.sha512",

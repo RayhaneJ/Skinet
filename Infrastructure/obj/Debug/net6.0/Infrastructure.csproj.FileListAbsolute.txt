@@ -13,3 +13,6 @@ C:\Users\Rayhane\source\repos\Skinet\Infrastructure\obj\Debug\net6.0\Infrastruct
 C:\Users\Rayhane\source\repos\Skinet\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
 C:\Users\Rayhane\source\repos\Skinet\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
 C:\Users\Rayhane\source\repos\Skinet\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\Rayhane\source\repos\skinet\Infrastructure\bin\Debug\net6.0\SeedData\brands.json
+C:\Users\Rayhane\source\repos\skinet\Infrastructure\bin\Debug\net6.0\SeedData\products.json
+C:\Users\Rayhane\source\repos\skinet\Infrastructure\bin\Debug\net6.0\SeedData\types.json

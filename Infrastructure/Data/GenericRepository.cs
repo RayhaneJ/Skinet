@@ -1,5 +1,6 @@
 ﻿using Core.Entities;
 using Core.Interfaces;
+using Core.Specifications;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -23,9 +24,16 @@ namespace Infrastructure.Data
             return await storeContext.Set<T>().ToListAsync();
         }
 
+        public async Task<IReadOnlyList<T>> GetAllAsync(ISpecification<T> spec) => await ApplySpecification(spec).ToListAsync();
+
         public async Task<T> GetByIdAsync(int id)
         {
             return await storeContext.Set<T>().FirstAsync();
         }
+
+        public async Task<T> GetEntityWithSpec(ISpecification<T> spec) => await ApplySpecification(spec).FirstOrDefaultAsync();
+
+        private IQueryable<T> ApplySpecification(ISpecification<T> spec) => SpecificationEvaluator<T>.GetQuery(storeContext.Set<T>().AsQueryable(), spec);
+
     }
 }

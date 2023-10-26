@@ -15,7 +15,6 @@ C:\Users\Rayhane\source\repos\Skinet\API\obj\Debug\net6.0\API.GeneratedMSBuildEd
 C:\Users\Rayhane\source\repos\Skinet\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
 C:\Users\Rayhane\source\repos\Skinet\API\obj\Debug\net6.0\API.AssemblyInfo.cs
 C:\Users\Rayhane\source\repos\Skinet\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
-C:\Users\Rayhane\source\repos\Skinet\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Rayhane\source\repos\Skinet\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Rayhane\source\repos\Skinet\API\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Rayhane\source\repos\Skinet\API\obj\Debug\net6.0\staticwebassets.development.json
@@ -65,3 +64,10 @@ C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\Core.dll
 C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\Infrastructure.dll
 C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\Core.pdb
 C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\API.staticwebassets.runtime.json
+C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Rayhane\source\repos\skinet\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\SeedData\brands.json
+C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\SeedData\products.json
+C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\SeedData\types.json
