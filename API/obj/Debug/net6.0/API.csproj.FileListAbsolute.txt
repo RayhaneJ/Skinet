@@ -68,6 +68,6 @@ C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\API.staticwebassets.ru
 C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Rayhane\source\repos\skinet\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\SeedData\brands.json
-C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\SeedData\products.json
-C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\SeedData\types.json
+C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\Data\SeedData\brands.json
+C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\Data\SeedData\products.json
+C:\Users\Rayhane\source\repos\skinet\API\bin\Debug\net6.0\Data\SeedData\types.json
