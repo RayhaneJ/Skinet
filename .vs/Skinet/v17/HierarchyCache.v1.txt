@@ -1,0 +1,240 @@
+﻿++Solution 'Skinet' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:Skinet.sln
+++Core
+i:{00000000-0000-0000-0000-000000000000}:Core
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\core\core.csproj
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\core\core.csproj
+++Dependencies
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:>414
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:>624
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:>413
+++Entities
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\users\rayhane\source\repos\skinet\core\entities\
+++BaseEntity.cs
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\users\rayhane\source\repos\skinet\core\entities\baseentity.cs
+++Product.cs
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\users\rayhane\source\repos\skinet\core\entities\product.cs
+++ProductBrand.cs
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\users\rayhane\source\repos\skinet\core\entities\productbrand.cs
+++ProductType.cs
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\users\rayhane\source\repos\skinet\core\entities\producttype.cs
+++Interfaces
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\users\rayhane\source\repos\skinet\core\interfaces\
+++Specifications
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\users\rayhane\source\repos\skinet\core\specifications\
+++BaseSpecification.cs
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\users\rayhane\source\repos\skinet\core\specifications\basespecification.cs
+++ISpecification.cs
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\users\rayhane\source\repos\skinet\core\specifications\ispecification.cs
+++ProductWithTypesAndBrandsSpecification.cs
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\users\rayhane\source\repos\skinet\core\specifications\productwithtypesandbrandsspecification.cs
+++Analyzers
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:analyzers
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:analyzers
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:analyzers
+++Frameworks
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:frameworks
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:frameworks
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:frameworks
+++IGenericRepository.cs
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\users\rayhane\source\repos\skinet\core\interfaces\igenericrepository.cs
+++IProductRepository.cs
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\users\rayhane\source\repos\skinet\core\interfaces\iproductrepository.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\users\rayhane\source\repos\skinet\core\microsoft.netcore.app
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\microsoft.netcore.app
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\infrastructure\microsoft.netcore.app
+++API
+i:{00000000-0000-0000-0000-000000000000}:API
+++Connected Services 
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:>625
+++Properties
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\properties\
+++wwwroot
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\
+++images
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\
+++Controllers
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\controllers\
+++BaseApiController.cs
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\controllers\baseapicontroller.cs
+++ErrorController.cs
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\controllers\errorcontroller.cs
+++ProductsController.cs
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\controllers\productscontroller.cs
+++WeatherForecastController.cs
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\controllers\weatherforecastcontroller.cs
+++Dtos
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\dtos\
+++ProductToReturnDto.cs
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\dtos\producttoreturndto.cs
+++Errors
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\errors\
+++ApiException.cs
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\errors\apiexception.cs
+++ApiResponse.cs
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\errors\apiresponse.cs
+++ApiValidationErrorResponse.cs
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\errors\apivalidationerrorresponse.cs
+++Extensions
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\extensions\
+++ApplicationServicesExtensions.cs
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\extensions\applicationservicesextensions.cs
+++Helpers
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\helpers\
+++MappingProfiles.cs
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\helpers\mappingprofiles.cs
+++ProductUrlResolver.cs
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\helpers\producturlresolver.cs
+++Middleware
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\middleware\
+++ExceptionMiddleware.cs
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\middleware\exceptionmiddleware.cs
+++appsettings.Development.json
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\appsettings.development.json
+++appsettings.json
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\appsettings.json
+++Program.cs
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\program.cs
+++skinet.db
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\skinet.db
+++skinet.db-shm
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\skinet.db-shm
+++skinet.db-wal
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\skinet.db-wal
+++WeatherForecast.cs
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\weatherforecast.cs
+++No service dependencies discovered
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:>626
+++Packages
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:packages
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:packages
+++Projects
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:projects
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:projects
+++launchSettings.json
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\properties\launchsettings.json
+++products
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\
+++.DS_Store
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\.ds_store
+++Microsoft.AspNetCore.Analyzers
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.24\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.24\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\microsoft.aspnetcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (12.0.1)
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:>647
+++Microsoft.EntityFrameworkCore.Design (6.0.24)
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:>648
+++Microsoft.EntityFrameworkCore.Sqlite (6.0.24)
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:>650
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:>652
+++Swashbuckle.AspNetCore (6.2.3)
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:>649
+++Infrastructure
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\infrastructure\infrastructure.csproj
+i:{00000000-0000-0000-0000-000000000000}:Infrastructure
+++boot-ang1.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\boot-ang1.png
+++boot-ang2.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\boot-ang2.png
+++boot-core1.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\boot-core1.png
+++boot-core2.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\boot-core2.png
+++boot-redis1.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\boot-redis1.png
+++glove-code1.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\glove-code1.png
+++glove-code2.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\glove-code2.png
+++glove-react1.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\glove-react1.png
+++glove-react2.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\glove-react2.png
+++hat-core1.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\hat-core1.png
+++hat-react1.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\hat-react1.png
+++hat-react2.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\hat-react2.png
+++sb-ang1.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\sb-ang1.png
+++sb-ang2.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\sb-ang2.png
+++sb-core1.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\sb-core1.png
+++sb-core2.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\sb-core2.png
+++sb-react1.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\sb-react1.png
+++sb-ts1.png
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\wwwroot\images\products\sb-ts1.png
+++Data
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\infrastructure\data\
+++Config
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\infrastructure\data\config\
+++ProductConfiguration.cs
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\infrastructure\data\config\productconfiguration.cs
+++Migrations
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\infrastructure\data\migrations\
+++SeedData
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\infrastructure\data\seeddata\
+++GenericRepository.cs
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\infrastructure\data\genericrepository.cs
+++ProductRepository.cs
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\infrastructure\data\productrepository.cs
+++SpecificationEvaluator.cs
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\infrastructure\data\specificationevaluator.cs
+++StoreContext.cs
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\infrastructure\data\storecontext.cs
+++StoreContextSeed.cs
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\infrastructure\data\storecontextseed.cs
+++20231025160146_InititalCreate.cs
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\infrastructure\data\migrations\20231025160146_inititalcreate.cs
+++StoreContextModelSnapshot.cs
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\infrastructure\data\migrations\storecontextmodelsnapshot.cs
+++brands.json
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\infrastructure\data\seeddata\brands.json
+++products.json
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\infrastructure\data\seeddata\products.json
+++types.json
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\infrastructure\data\seeddata\types.json
+++20231025160146_InititalCreate.Designer.cs
+i:{231d8615-7c02-4e0b-82e9-48996418e059}:c:\users\rayhane\source\repos\skinet\infrastructure\data\migrations\20231025160146_inititalcreate.designer.cs
+++ProductSpecParams.cs
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\users\rayhane\source\repos\skinet\core\specifications\productspecparams.cs
+++Pagination.cs
+i:{895e43b7-297e-4e5e-bd93-6ee4bfdc6ae5}:c:\users\rayhane\source\repos\skinet\api\helpers\pagination.cs
+++ProductWithFiltersForCountSpecification.cs
+i:{0aad7815-f51d-42c1-8f00-aeab9a2d1166}:c:\users\rayhane\source\repos\skinet\core\specifications\productwithfiltersforcountspecification.cs
