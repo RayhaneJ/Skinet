@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "We5c3ju496NM7hyW5hqBJyY0u5bd6F6lVzLseYd9S8tmq+En34dJnd/Gxnx83BMx0AqykDcxnBStTVxpCzdijg==",
+  "dgSpecHash": "xP0yjFD/9h3vT+bMwj5g6XlFQAiiCWRdyUWy1S/S2QG0G0dmV1xH5H5bveTboa/RtYzkFWlD4yvzuftfRk8qog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rayhane\\source\\repos\\Skinet\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Rayhane\\source\\repos\\skinet\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rayhane\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.24\\microsoft.data.sqlite.core.6.0.24.nupkg.sha512",
     "C:\\Users\\Rayhane\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.24\\microsoft.entityframeworkcore.6.0.24.nupkg.sha512",

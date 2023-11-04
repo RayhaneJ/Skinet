@@ -19,7 +19,12 @@ namespace Infrastructure.Data
             this.storeContext = storeContext;   
         }
 
-        public async Task<int> CountAsync(ISpecification<T> spec) => await ApplySpecification(spec).CountAsync();
+        public async Task<int> CountAsync(ISpecification<T> spec)
+        {
+            var s = ApplySpecification(spec);
+                
+                return await s.CountAsync();
+        }
 
         public async Task<IReadOnlyList<T>> GetAllAsync()
         {
