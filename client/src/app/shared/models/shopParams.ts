@@ -4,4 +4,5 @@ export class shopParams{
     sort = 'name'
     pageSize = 6
     pageNumber = 1
+    search = ''
 }
