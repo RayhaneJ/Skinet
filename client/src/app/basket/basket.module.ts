@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { BasketComponent } from './basket.component';
 import { BasketRootingModule } from './basket-rooting.module';
+import { SharedModule } from '../shared/shared.module';
 
 
 
@@ -11,7 +12,8 @@ import { BasketRootingModule } from './basket-rooting.module';
   ],
   imports: [
     CommonModule,
-    BasketRootingModule
+    BasketRootingModule,
+    SharedModule
   ]
 })
 export class BasketModule { }

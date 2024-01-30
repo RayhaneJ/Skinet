@@ -1247,11 +1247,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rayhane\\source\\repos\\skinet\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Rayhane\\source\\repos\\Skinet\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\Rayhane\\source\\repos\\skinet\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Rayhane\\source\\repos\\Skinet\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Rayhane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rayhane\\source\\repos\\skinet\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Rayhane\\source\\repos\\Skinet\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rayhane\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1268,8 +1268,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Rayhane\\source\\repos\\skinet\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Rayhane\\source\\repos\\skinet\\Core\\Core.csproj"
+            "C:\\Users\\Rayhane\\source\\repos\\Skinet\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Rayhane\\source\\repos\\Skinet\\Core\\Core.csproj"
             }
           }
         }
