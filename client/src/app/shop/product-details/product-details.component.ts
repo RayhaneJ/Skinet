@@ -68,7 +68,7 @@ export class ProductDetailsComponent implements OnInit{
     }
   }
 
-  getButtonText(){
+  get buttonText(){
     return this.quantityInBasket === 0 ? 'Add to basket' : 'Update'
   }
 }

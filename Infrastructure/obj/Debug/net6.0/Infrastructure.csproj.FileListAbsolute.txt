@@ -16,3 +16,5 @@ C:\Users\Rayhane\source\repos\Skinet\Infrastructure\obj\Debug\net6.0\Infrastruct
 C:\Users\Rayhane\source\repos\skinet\Infrastructure\bin\Debug\net6.0\Data\SeedData\brands.json
 C:\Users\Rayhane\source\repos\skinet\Infrastructure\bin\Debug\net6.0\Data\SeedData\products.json
 C:\Users\Rayhane\source\repos\skinet\Infrastructure\bin\Debug\net6.0\Data\SeedData\types.json
+C:\Users\Rayhane\source\repos\skinet\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+C:\Users\Rayhane\source\repos\skinet\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
